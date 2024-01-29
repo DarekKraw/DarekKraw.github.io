@@ -53,6 +53,7 @@ body {
 	border-radius: 8px;
 	overflow: hidden;
 	transition: 1s;
+	cursor: pointer;
 }
 .post-img img {
 	width: 100%;
